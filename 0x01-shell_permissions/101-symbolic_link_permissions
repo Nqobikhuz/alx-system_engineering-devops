@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincint: staff _hello
+chown vincint:staff _hello
